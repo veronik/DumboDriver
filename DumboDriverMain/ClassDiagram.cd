@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DumboDriver.CollisionDetector" Collapsed="true">
+    <Position X="14" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>CollisionDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.Cone" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.ConsoleRenderer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAABAAAAIAAAAAABAAACAAAAEAAAA=</HashCode>
+      <FileName>ConsoleRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DumboDriver.DumboCar" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAACAAAAAiAAAAAABAAAAAQBCAAQIQAAAAAAAAAA=</HashCode>
+      <FileName>DumboCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.DumboDriverMain" Collapsed="true">
+    <Position X="17.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAADAABAAAAAA=</HashCode>
+      <FileName>DumboDriverMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.Engine" Collapsed="true">
+    <Position X="19.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAQAAAAAAAAAAgIIAAQAAAgAAAAAAAAAAAAAgAI=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.Field" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAABIBAQAQAAAAAAAAAAAQEAEAA=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DumboDriver.GameInfo" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAABABAQAQAAAAAAAAAAAAEAEAA=</HashCode>
+      <FileName>GameInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.263" />
+  </Class>
+  <Class Name="DumboDriver.GameObject" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAJAAABAQAAABABARAQAAAQAAAQAAAAMAEAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DumboDriver.InvalidSpeedOperationException" Collapsed="true">
+    <Position X="15.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>InvalidSpeedOperationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.KeyboardInterface" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAEAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KeyboardInterface.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DumboDriver.MatrixCoords" Collapsed="true">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAAAAAAEAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>MatrixCoords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.Obstacle" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.OtherCar" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OtherCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.PointsInfo" Collapsed="true">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PointsInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.RandomObjectGenerator" Collapsed="true">
+    <Position X="14" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RandomObjectGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.Reward" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAABAAAAAQAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Reward.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.SpeedInfo" Collapsed="true">
+    <Position X="9" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpeedInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.Spill" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Spill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.TimeBonus" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TimeBonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.TimeLeftInfo" Collapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TimeLeftInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DumboDriver.Timer" Collapsed="true">
+    <Position X="15.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAACAAAAAAAAAAgACAAIAAgBCAAAAQAAAAAQAA=</HashCode>
+      <FileName>Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DumboDriver.ICollidable" Collapsed="true">
+    <Position X="14" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICollidable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DumboDriver.IRenderable" Collapsed="true">
+    <Position X="15.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IRenderable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DumboDriver.IRenderer" Collapsed="true">
+    <Position X="17.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>IRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DumboDriver.IUserController" Collapsed="true">
+    <Position X="19.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAEAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IUserController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DumboDriver.Lane" Collapsed="true">
+    <Position X="14" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAACAAAAAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>Lane.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
