@@ -1,0 +1,6 @@
+C:\Users\Didi\Desktop\dumbo\DumboDriverMain\bin\Debug\DumboDriverMain.exe.config
+C:\Users\Didi\Desktop\dumbo\DumboDriverMain\bin\Debug\DumboDriverMain.exe
+C:\Users\Didi\Desktop\dumbo\DumboDriverMain\bin\Debug\DumboDriverMain.pdb
+C:\Users\Didi\Desktop\dumbo\DumboDriverMain\obj\Debug\DumboDriver.csprojResolveAssemblyReference.cache
+C:\Users\Didi\Desktop\dumbo\DumboDriverMain\obj\Debug\DumboDriverMain.exe
+C:\Users\Didi\Desktop\dumbo\DumboDriverMain\obj\Debug\DumboDriverMain.pdb
